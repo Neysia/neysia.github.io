@@ -4,3 +4,16 @@ body{
   height: 100%;
   background-color: #333;
 }
+
+h1{
+  font-size:54px;
+}
+
+#nameintro{
+  margin: 20px;
+}
+
+.intro{
+  font-size:21px;
+  color: rgba(255,192,0,1);
+}
