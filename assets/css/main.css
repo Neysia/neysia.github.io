@@ -1,12 +1,10 @@
 
 /** 1. Basic
 *******************************************************************/
-* { touch-action: pan-y; } 
 
 html
 {
     font-size: 10px !important;
-    touch-action:none;
 }
 
 body
