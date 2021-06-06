@@ -1,18 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="45px" height="45px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="97px" height="17px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter x="-3px" y="40px" width="45px" height="45px" filterUnits="userSpaceOnUse" id="filter2456">
-      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
-      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0.192156862745098  0 0 0 0 0.756862745098039  0 0 0 0 0.603921568627451  0 0 0 1 0  " in="shadowComposite" />
-    </filter>
-    <g id="widget2457">
-      <path d="M 0 17.5  C 0 7.83501720428467  7.83501720428467 0  17.5 0  C 27.164981842041 0  35 7.83501720428467  35 17.5  C 35 27.164981842041  27.164981842041 35  17.5 35  C 7.83501720428467 35  0 27.164981842041  0 17.5  Z " fill-rule="nonzero" fill="#31c19a" stroke="none" transform="matrix(1 0 0 1 2 45 )" />
-    </g>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-0.0003657658182874" y1="8.50018441677094" x2="96.9997571706772" y2="8.50018441677094" id="LinearGradient4615">
+      <stop id="Stop4616" stop-color="#f05075" offset="0" />
+      <stop id="Stop4617" stop-color="#f05075" stop-opacity="0.992156862745098" offset="0.28" />
+      <stop id="Stop4618" stop-color="#f05075" stop-opacity="0.96078431372549" offset="0.42" />
+      <stop id="Stop4619" stop-color="#f05075" stop-opacity="0.905882352941176" offset="0.53" />
+      <stop id="Stop4620" stop-color="#f05075" stop-opacity="0.827450980392157" offset="0.62" />
+      <stop id="Stop4621" stop-color="#f05075" stop-opacity="0.725490196078431" offset="0.71" />
+      <stop id="Stop4622" stop-color="#f05075" stop-opacity="0.6" offset="0.78" />
+      <stop id="Stop4623" stop-color="#f05075" stop-opacity="0.450980392156863" offset="0.85" />
+      <stop id="Stop4624" stop-color="#f05075" stop-opacity="0.27843137254902" offset="0.92" />
+      <stop id="Stop4625" stop-color="#f05075" stop-opacity="0.0901960784313725" offset="0.97" />
+      <stop id="Stop4626" stop-color="#f05075" stop-opacity="0" offset="1" />
+    </linearGradient>
   </defs>
-  <g transform="matrix(1 0 0 1 3 -40 )">
-    <use xlink:href="#widget2457" filter="url(#filter2456)" />
-    <use xlink:href="#widget2457" />
+  <g transform="matrix(1 0 0 1 -29 -52 )">
+    <path d="M 54.3658475271842 16.719374083624  C 51.4673971927787 16.8541310047453  48.3382095825619 17  44.9782846965338 17  C 37.893888316987 17  29.7777884616593 16.3542104540891  20.5799971342059 13.6001964565593  C 13.3837373725947 11.4466642109597  6.45918065940917 8.30839346204127  0 4.27489472961944  C 0 4.27489472961944  2.63083167104706 0  2.63083167104706 0  C 8.71443178718713 3.79811921735174  15.2314644082198 6.75331701010451  22.0022165911882 8.78013477497779  C 34.7537277319628 12.5963648313868  45.0521693935703 12.1175633608517  54.1361465878825 11.6961026485522  C 67.9892834383496 11.0513567781124  81.8713767501141 8.3878355831943  95.3998964291954 3.77902609549811  C 95.3998964291954 3.77902609549811  97 8.54272930164027  97 8.54272930164027  C 83.030000967834 13.3034856593934  68.6854577289084 16.0535091330632  54.3658475271842 16.719374083624  Z " fill-rule="nonzero" fill="url(#LinearGradient4615)" stroke="none" transform="matrix(1 0 0 1 29 52 )" />
   </g>
 </svg>
