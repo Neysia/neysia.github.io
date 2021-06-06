@@ -1,16 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="80px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="207px" height="59px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="26.9639897346497" y1="80" x2="27.4410402774811" y2="0" id="LinearGradient242">
-      <stop id="Stop243" stop-color="#4e95ff" stop-opacity="0.490196078431373" offset="0" />
-      <stop id="Stop244" stop-color="#274b80" stop-opacity="0.149019607843137" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="103.5" y1="0" x2="103.5" y2="59" id="LinearGradient180">
+      <stop id="Stop181" stop-color="#ffd08f" offset="0" />
+      <stop id="Stop182" stop-color="#ffd08f" stop-opacity="0.0901960784313725" offset="0.56" />
+      <stop id="Stop183" stop-color="#ffd08f" stop-opacity="0.00392156862745098" offset="1" />
     </linearGradient>
-    <mask fill="white" id="clip245">
-      <path d="M 0 80  L 0 0  L 34.2708358764648 0  L 60 0  L 60 80  L 0 80  Z " fill-rule="evenodd" />
-    </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -4 -3 )">
-    <path d="M 0 80  L 0 0  L 34.2708358764648 0  L 60 0  L 60 80  L 0 80  Z " fill-rule="nonzero" fill="url(#LinearGradient242)" stroke="none" transform="matrix(1 0 0 1 4 3 )" />
-    <path d="M 0 80  L 0 0  L 34.2708358764648 0  L 60 0  L 60 80  L 0 80  Z " stroke-width="2" stroke="#4e95ff" fill="none" transform="matrix(1 0 0 1 4 3 )" mask="url(#clip245)" />
+  <g>
+    <path d="M 207 59  C 207 59  0 59  0 59  C 0 59  19.0375138650199 44.6870185049074  25.3833314487436 39.9160143775823  C 31.7291490324674 35.145010250257  43.3193904203599 22.7404365834711  49.2980971155149 17.0152439854341  C 55.2768038106699 11.290051387397  70.2236011054816 23.8536616137822  77.1987691021372 26.1331444521923  C 84.1739370987927 28.4126272906028  106.777566257598 12.7743514278117  116.637185680701 8.32142041968468  C 126.496805103803 3.86848941155788  141.810713287184 7.20816450249096  150.201889156012 6.83708949238728  C 158.59306502484 6.46601448228361  167.823334035011 1.90707969234571  173.69716936596 0.263743092332001  C 179.571004696909 -1.37959350768193  207 5.19390732678752  207 5.19390732678752  C 207 5.19390732678752  207 59  207 59  Z " fill-rule="nonzero" fill="url(#LinearGradient180)" stroke="none" />
   </g>
 </svg>
