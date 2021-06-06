@@ -1,22 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="358px" height="46px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1420px" height="117px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="1102" y1="90.6721311475418" x2="1454" y2="92.1028315946344" id="LinearGradient293">
-      <stop id="Stop294" stop-color="#171728" stop-opacity="0.0980392156862745" offset="0" />
-      <stop id="Stop295" stop-color="#171728" stop-opacity="0.6" offset="1" />
-    </linearGradient>
-    <filter x="1100px" y="69px" width="358px" height="46px" filterUnits="userSpaceOnUse" id="filter296">
-      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner" result="shadowGaussian" />
+    <filter x="42px" y="866px" width="1421px" height="118px" filterUnits="userSpaceOnUse" id="filter2697">
+      <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
       <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0.192156862745098  0 0 0 0 0.541176470588235  0 0 0 0 1  0 0 0 0.501960784313725 0  " in="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.63921568627451 0  " in="shadowComposite" />
     </filter>
-    <g id="widget297">
-      <path d="M 1102 71  L 1451 71  A 3 3 0 0 1 1454 74 L 1454 111  L 1102 111  L 1102 71  Z " fill-rule="nonzero" fill="url(#LinearGradient293)" stroke="none" />
+    <g id="widget2698">
+      <path d="M 1397.52113447969 0.479797979797543  C 1397.52113447969 0.479797979797543  1352.81374732225 -0.734612037983677  1317.69694249934 10.4606741573029  C 1282.58013767643 21.6559603525895  948.983763787079 62.2777777777778  902.693430156881 62.8535353535348  C 856.403096526683 63.4292929292919  330.040909018029 69.1725768321521  261.403517773253 67.061465721041  C 192.766126528477 64.9503546099299  106.348471026851 46.9444444444439  0.998056558124865 94.1666666666663  " stroke-width="11" stroke="#4e95ff" fill="none" stroke-opacity="0.4" transform="matrix(1 0 0 1 53 873 )" />
     </g>
   </defs>
-  <g transform="matrix(1 0 0 1 -1100 -69 )">
-    <use xlink:href="#widget297" filter="url(#filter296)" />
-    <use xlink:href="#widget297" />
+  <g transform="matrix(1 0 0 1 -42.5 -866.5 )">
+    <use xlink:href="#widget2698" filter="url(#filter2697)" />
+    <use xlink:href="#widget2698" />
   </g>
 </svg>

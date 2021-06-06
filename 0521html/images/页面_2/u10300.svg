@@ -1,23 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="179px" height="51px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="173" y1="22.7676597536586" x2="1.07204968944054" y2="22.7676597536586" id="LinearGradient338">
-      <stop id="Stop339" stop-color="#4e95ff" offset="0" />
-      <stop id="Stop340" stop-color="#4e95ff" stop-opacity="0.568627450980392" offset="0.68" />
-      <stop id="Stop341" stop-color="#4e95ff" stop-opacity="0.0980392156862745" offset="1" />
-    </linearGradient>
-    <filter x="1114px" y="652px" width="179px" height="51px" filterUnits="userSpaceOnUse" id="filter342">
-      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner" result="shadowGaussian" />
-      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0.192156862745098  0 0 0 0 0.541176470588235  0 0 0 0 1  0 0 0 0.501960784313725 0  " in="shadowComposite" />
-    </filter>
-    <g id="widget343">
-      <path d="M 0 45  L 0 5  C 0 2.2  2.20000000000001 0  5.00000000000001 0  L 168 0  C 170.8 0  173 2.2  173 5  L 173 45  L 0 45  Z " fill-rule="nonzero" fill="url(#LinearGradient338)" stroke="none" transform="matrix(1 0 0 1 1116 654 )" />
-    </g>
-  </defs>
-  <g transform="matrix(1 0 0 1 -1114 -652 )">
-    <use xlink:href="#widget343" filter="url(#filter342)" />
-    <use xlink:href="#widget343" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="231px" height="59px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -666 -540 )">
+    <path d="M 0 58  C 0 58  21.1527931833554 43.9409164046007  28.2037016097152 39.2545450931408  C 35.2546100360749 34.5681737816807  48.1326560226222 22.3836447786616  54.7756634616832 16.7600113405018  C 61.4186709007443 11.1363779023421  78.0262234505351 23.477122316308  85.7764101134858 25.7161694212369  C 93.5265967764364 27.9552165261659  118.641740286219 12.5943479525374  129.596872978556 8.22040746297075  C 140.552005670893 3.84646697340433  157.567459207982 7.12689958634381  166.890987951124 6.76240707379498  C 176.214516694266 6.39791456124614  186.470371150012 1.91985069036873  192.996854851067 0.305665229226804  C 199.523338552121 -1.30852023191535  220.749196736698 3.93769628797342  230 5.14837330755577  " stroke-width="1" stroke="#ffd08f" fill="none" transform="matrix(1 0 0 1 666 540 )" />
   </g>
 </svg>
